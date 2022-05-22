@@ -1,4 +1,4 @@
-local s start = tick()
+local start = tick()
 local client = game:GetService('Players').LocalPlayer;
 
 -- gracefully handle errors when loading external scripts
